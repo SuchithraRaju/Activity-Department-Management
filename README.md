@@ -1,6 +1,9 @@
 # College Department Management System (MERN)
 
+LIVE URL LINK:https://flying-teal-udgdji2.tmp.now/
+
 A full-stack college department management application built with MongoDB Community Server, Express, React (Vite), Node.js, Mongoose, Axios, and React Router.
+
 
 ## Features
 - Dashboard with counts for all 10 modules and recent records
